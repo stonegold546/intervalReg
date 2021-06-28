@@ -1,0 +1,14 @@
+Package: intervalReg
+Type: Package
+Title: Interval regression Module for JASP
+Version: 0.1.0
+Date: 2021-06-26
+Author: James Uanhoro
+Website: https://jamesuanhoro.com
+Maintainer: James Uanhoro <James.Uanhoro@unt.edu>
+Description: This module permits interval-censored regression.
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Imports:
+    bbmle
